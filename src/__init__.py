@@ -1,1 +1,1 @@
-"""quantum-resistant-monitor package."""
+"""PQC TLS negotiation monitor."""
